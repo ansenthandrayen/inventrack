@@ -1,6 +1,6 @@
 <nav class="bg-blue-700 text-white px-6 py-4 flex justify-between items-center">
     <a href="{{ route('equipments.index') }}" class="text-xl font-bold">
-        InventoryTrack
+        InvenTrack
     </a>
 
     <div class="flex items-center gap-4">

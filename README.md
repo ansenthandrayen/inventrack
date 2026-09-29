@@ -1,4 +1,4 @@
-# InventoryTrack 📦
+# InvenTrack 📦
 
 Application web d'inventaire d'équipements construite avec **Laravel 12**.
 Projet réalisé en autodidacte pour monter en compétences sur Laravel 12 — dans le cadre d'une candidature à un poste de développeur PHP Laravel dans un organisme public.

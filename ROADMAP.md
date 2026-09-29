@@ -1,4 +1,4 @@
-# InventoryTrack — Roadmap
+# InvenTrack — Roadmap
 
 Application d'inventaire d'équipements construite avec Laravel 12.
 Projet réalisé dans le cadre d'une montée en compétences Laravel pour un poste de développeur PHP Laravel dans un organisme public.
