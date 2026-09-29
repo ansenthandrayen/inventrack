@@ -54,8 +54,8 @@ API REST disponible pour une future app mobile.
 
 ```bash
 # 1. Cloner le projet
-git clone https://github.com/ansenthandrayen/inventory-track-application.git
-cd inventory-track-application
+git clone https://github.com/ansenthandrayen/inventrack-application.git
+cd inventrack-application
 
 # 2. Installer les dépendances PHP
 composer install
